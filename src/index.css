@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@plugin 'tailwindcss-react-aria-components';
+
+@theme {
+  --font-display: 'Verdana', 'serif';
+  --color-white: #fff;
+  --color-offroad-yellow: #ffed00;
+  --color-offroad-text: #353740;
+  --color-offroad-primary: #155dfc;
+}
